@@ -50,3 +50,51 @@ font-size: 12pxs
     background-color: transparent;
     border: 2px solid var(--branco-principal)
 }
+.container__imagem{
+    margin: 1em 0 2em 0;
+}
+
+.container__caixa{
+     margin: 0 6em;
+    }
+
+.secundario__imagem{
+  align-items: center;
+  margin: 0 10em;
+}
+
+.descricao__titulo{
+  font-weight: 700;
+  font-size: 48px;
+  color: var(--branco-principal);
+  margin-bottom: 0.1em;
+}
+
+.descricao__texto{
+  color: var(--cinza-secundario); 
+}
+
+.container__descricao{
+padding: 2em;
+}
+ 
+.secunario__botao{
+display: inline-block;
+margin-top: 1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
